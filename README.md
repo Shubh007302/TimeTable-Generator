@@ -15,23 +15,6 @@ A Flutter application for generating and managing school timetables. This app al
 - Share generated timetables
 
 
-
-## Installation
-
-```bash
-# Clone this repository
-git clone https://github.com/username/timetable.git
-
-# Navigate to the project
-cd timetable
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
 ## Dependencies
 
 - [Flutter](https://flutter.dev/) - UI toolkit
